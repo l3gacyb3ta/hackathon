@@ -1,0 +1,21 @@
+{
+  "name": "@lachlanjc/theme-starter",
+  "version": "0.0.1",
+  "author": "Lachlan Campbell (https://lachlanjc.com) <lachlanjc@hey.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^10.2.0",
+    "airtable": "^0.11.0",
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.8.4"
+  }
+}
